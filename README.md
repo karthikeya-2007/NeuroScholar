@@ -1,4 +1,4 @@
-# 📚 Scientific Research Paper Recommendation System
+# 📚 NeuroScholar by Batch 5 
 
 A **semantic research paper recommendation system** that helps users discover scientifically relevant papers based on the **meaning of their query or an existing research paper**, rather than relying only on keyword matching.
 
